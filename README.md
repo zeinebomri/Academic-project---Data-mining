@@ -1,4 +1,4 @@
-# Data mining academic project
+# Customer credit risk analysis
 Academic project
 
 This is a customer credit risk analysis for the Churn dataset.
